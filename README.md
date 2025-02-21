@@ -1,2 +1,2 @@
 # hello-world
-try
+This is just a freshman's try
