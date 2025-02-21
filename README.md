@@ -1,2 +1,2 @@
 # hello-world
-This is just a freshman's try
+This is just a freshman's try.
